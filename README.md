@@ -8,6 +8,7 @@ It will be added later.
 ## Patches
 
 - xresources
+- alpha
 
 ## Notes:
 
